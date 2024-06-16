@@ -26,5 +26,7 @@ This project showcases the power of data visualization in unraveling insights fr
 
 Dashboard Link: [https://public.tableau.com/app/profile/samyuktha.kapoor/viz/BostonAirbnbDashboard_17036223994450/Dashboard1?publish=yes](url)
 
+[Download the Dashboard](./Boston%20Airbnb%20Dashboard%20(5).twbx)
+
 Feel free to explore the dashboard and gain valuable insights into the Boston Airbnb market!
 
