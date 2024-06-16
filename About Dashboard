@@ -1,0 +1,38 @@
+Introduction
+
+This project explores Airbnb data in Boston through an interactive Tableau dashboard, allowing users to gain insights into various aspects of the market. The dashboard focuses on key metrics such as average listing prices, room types, and review patterns, providing a comprehensive view of the Boston Airbnb market.
+
+Dashboard Features
+
+1. Map of Listings
+Description: Displays the geographical distribution of Airbnb listings across Boston.
+Insights: Highlights areas with the highest concentration of listings, particularly in the downtown region.
+2. Top Reviewed Units
+Description: Bar chart showcasing the top 5 reviewed Airbnb units.
+Insights: Indicates the popularity of certain listings based on the number of reviews.
+3. Top Units by Revenue
+Description: Visualization of the top 5 units based on revenue.
+Insights: Identifies the most lucrative listings, providing insights into guest preferences.
+4. Average Price by Neighborhood
+Description: Bar chart showing the average price of listings in different neighborhoods.
+Insights: Reveals significant price variation across neighborhoods, with downtown areas showing the highest prices.
+5. Tooltip Details
+Description: Interactive tooltips providing detailed information about each listing.
+Insights: Offers comprehensive details including rating, number of bedrooms and bathrooms, neighborhood location, date of last review, and total number of reviews.
+
+Methodology
+
+1. Data Cleaning and Pre-processing: Ensuring the data is clean and appropriately formatted.
+2. Visualization in Tableau: Creating interactive charts and maps to visualize the data.
+
+Key Insights from the Dashboard
+
+- The map highlights a high concentration of listings in downtown Boston.
+- The top reviewed units are predominantly located in central areas.
+- Revenue insights show the most profitable listings, useful for prospective hosts.
+- Average prices vary significantly by neighborhood, with higher prices in central areas.
+
+Conclusion
+The Boston Airbnb Data Visualization Dashboard provides valuable insights into the Airbnb market in Boston. Users can interact with the dashboard to explore different aspects of the data, aiding in decision-making for hosts, guests, and policymakers.
+
+Dashboard Access Dashboard Link: [https://public.tableau.com/app/profile/samyuktha.kapoor/viz/BostonAirbnbDashboard_17036223994450/Dashboard1?publish=yes](url)
